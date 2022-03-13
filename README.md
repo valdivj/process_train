@@ -3,3 +3,6 @@
 This is a copy of the jupyter note book with additional cells for 
 eporting trained model to a Nvidia Xavier NX or a jetson nano.
 Plus some files that may be usefull.
+Here is link to accompanying video.
+
+https://youtu.be/HBpCVTbyr7Y
