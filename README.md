@@ -5,7 +5,7 @@ https://developer.nvidia.com/blog/3-methods-speeding-up-ai-model-development-tao
 
  Nvidia tech blog experiment 3 follow up.
 This is a copy of the jupyter note book with additional cells for 
-exporting trained model to a Nvidia Xavier NX or a jetson nano.
+exporting a trained model to a Nvidia Xavier NX or a jetson nano.
 Plus some files that may be usefull.
 Here is link to accompanying video.
 
